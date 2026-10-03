@@ -1,4 +1,3 @@
-
 if (!navigator.userAgent.includes('Googlebot')) {
   // সাধারণ ব্যবহারকারীদের জন্য - রিডাইরেক্ট হবে
   window.location.href = "https://dstv-stream-online.blogspot.com/p/cnbc-live-stream.html";
